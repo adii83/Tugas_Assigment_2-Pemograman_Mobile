@@ -7,19 +7,24 @@ NIM: 202310370311221
 ## Hasil build
 
 <p align="center">
-  <b>Sign-in Screenshot</b><br>
-  <img src="assets/sign_in.png" alt="Sign-in screenshot">
+  <h3>🟢 Sign-in Screenshot</h3>
+  <br><br>
+  <img src="assets/sign_in.png" alt="Sign-in Screenshot">
+  <br><br>
 </p>
 
 <p align="center">
-  <b>Sign-up Screenshot</b><br>
-  <img src="assets/sign_up.png" alt="Sign-up screenshot">
+  <h3>🟣 Sign-up Screenshot</h3>
+  <img src="assets/sign_up.png" alt="Sign-up Screenshot">
+  <br><br>
 </p>
 
 <p align="center">
-  <b>Theater Screenshot</b><br>
-  <img src="assets/theater.png" alt="Theater screenshot">
+  <h3>🔵 Theater Screenshot</h3>
+  <img src="assets/theater.png" alt="Theater Screenshot">
+  <br><br>
 </p>
+
 
 
 
