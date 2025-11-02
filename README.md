@@ -8,7 +8,6 @@ NIM: 202310370311221
 
 <p align="center">
   <h3>🟢 Sign-in Screenshot</h3>
-  <br><br>
   <img src="assets/sign_in.png" alt="Sign-in Screenshot">
   <br><br>
 </p>
